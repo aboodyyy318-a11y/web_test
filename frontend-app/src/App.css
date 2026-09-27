@@ -1,0 +1,95 @@
+.store {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.top {
+  text-align: center;
+  padding: 20px;
+  background-color: #0f3460;
+  color: white;
+  border-radius: 10px;
+}
+
+.logo {
+  font-size: 36px;
+  margin: 0;
+}
+
+.menu ul {
+  list-style: none;
+  padding: 0;
+}
+
+.menu li {
+  display: inline;
+  margin: 0 15px;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+}
+
+.box {
+  margin-top: 30px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+.product {
+  padding: 15px;
+  margin: 10px 0;
+  border: 1px solid #eee;
+  border-radius: 8px;
+}
+
+.product img {
+  border-radius: 8px;
+}
+
+.compare {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.compare th,
+.compare td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+.compare th {
+  background-color: #0f3460;
+  color: white;
+}
+
+.order-form input,
+.order-form select,
+.order-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btn {
+  background-color: #0f3460;
+  color: white;
+  font-size: 16px;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.bottom {
+  text-align: center;
+  margin-top: 30px;
+  color: gray;
+}
